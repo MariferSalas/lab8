@@ -1,0 +1,9 @@
+{
+  "name": "table-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
